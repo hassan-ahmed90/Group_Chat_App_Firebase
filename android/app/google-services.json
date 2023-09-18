@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976488087397",
+    "project_id": "fantachatapp-85337",
+    "storage_bucket": "fantachatapp-85337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976488087397:android:620b2d989201fe59e16b8c",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipV9cQWwN7jvYeNaVk7sHtFIZVMfUPNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
